@@ -10,8 +10,8 @@ driver.get('https://web.whatsapp.com/')
 time.sleep(30)
 
 #definir contatos e grupos e mensagem a ser enviada
-contatos = ['Totus Tuus, Mariae']
-mensagem = 'Olá! Sou Fiscalino. Fui desenvolvido por João Victor na linguagem de programação Python.'
+contatos = ['Dívida Ativa']
+mensagem = 'Olá! Sou Chatter. Fui desenvolvido por João Victor na linguagem de programação Python.'
 mensagem1 = 'Esta é a minha estreia como ChatBot'
 mensagem2 = 'É um prazer finalmente começar a conversar.'
 # buscar contatos/grupos
